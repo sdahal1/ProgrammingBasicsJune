@@ -1,0 +1,15 @@
+1. Request Response Cycle-> You make a HTTP request on the browser (www.amazon.com), and you get back a response (the web page)
+
+2. The response contains three things: HTML, CSS, JavaScript
+
+3. HTML-> Content of the page (text, word, images, buttons, form inputs, dropdowns, radio buttons, checkboxes, links, table)
+
+4. CSS-> Layout and styling of the content. Arrangement of the content.
+
+
+ANALOGY TIME!!!
+HTML- When you move from one apartment/home to another, you will take all your furniture/belongings (content) to a new apartment. 
+
+CSS- You will then arrange your furniture and belongings by organizing them and laying them out in the right places and setting things up like putting pictures on the wall. This is CSS.
+
+JS- You call up some friends and invite them over, and they bring some food and themselves (content) into your apartment. You turn off the lights to watch a movie, and the room is darker now and the tv light is on. The styling and content of your apartment has changed based on certain ACTIONS (phone call, flip light switch, turn tv on).
