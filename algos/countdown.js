@@ -47,3 +47,5 @@ console.log("finished!")
 //1. create a variable called count and start (initialize) it at 5
 //2. continue doing the for loop as long as count is greater than 0. When count is no longer greater than 0, stop the loop
 //3. in each iteration, decrement (decrease) the count by 1
+
+

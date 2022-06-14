@@ -1,0 +1,33 @@
+h1{
+    color:blue;
+    background-color: yellow; 
+    font-weight:100;
+    /* font-size: 200px;  */
+    border: 2px dashed blue;
+}
+
+p{
+    color: blue;
+}
+
+.larger-font{
+    font-size: 26px;
+}
+
+#age{
+    text-decoration: underline overline;
+}
+
+#in-game{
+    color: red;
+    border: 1px solid black;
+    margin: 100px;
+    padding: 10px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    /* border: 1px dotted black; */
+    border-radius: 10px;
+}
