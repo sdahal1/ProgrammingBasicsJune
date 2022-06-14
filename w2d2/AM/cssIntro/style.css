@@ -1,9 +1,18 @@
+*{
+    border: 1px solid black;
+}
+
+body{
+    /* width: 500px; */
+}
+
+
 h1{
     color:blue;
     background-color: yellow; 
     font-weight:100;
     /* font-size: 200px;  */
-    border: 2px dashed blue;
+    /* border: 2px dashed blue; */
 }
 
 p{
@@ -31,3 +40,4 @@ img{
     /* border: 1px dotted black; */
     border-radius: 10px;
 }
+
